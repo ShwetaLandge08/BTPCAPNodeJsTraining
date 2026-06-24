@@ -1,0 +1,25 @@
+{
+    "exercise":[
+{
+        "id": 1,
+        "name": "Push-ups",
+        "description": "A basic upper body exercise that targets the chest, shoulders, and triceps.",
+        "duration": 30,
+        "calories_burned": 100
+    },
+    {
+        "id": 2,
+        "name": "Squats",
+        "description": "A lower body exercise that targets the thighs, hips, and buttocks.",
+        "duration": 45,
+        "calories_burned": 150
+    },
+    {
+        "id": 3,
+        "name": "Plank",
+        "description": "A core exercise that strengthens the abdominal muscles and lower back.",
+        "duration": 60,
+        "calories_burned": 80
+}
+    ]
+}
